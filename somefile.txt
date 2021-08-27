@@ -1,4 +1,3 @@
 This is an example of a text file.
 
-This second line intent to show file edit.
-
+This second line shuld not have errors.
